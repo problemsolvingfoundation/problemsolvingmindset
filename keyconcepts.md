@@ -23,7 +23,7 @@ How would you describe an ideal autonomous team?:
  
 The team as an orchestra. 
 
-An orchestra chief instead of a cult leader.
+An orchestra conductor instead of a cult leader.
 
 Team members who play different instruments but for the sake of a mutual vision and harmony.
 
