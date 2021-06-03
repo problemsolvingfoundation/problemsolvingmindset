@@ -14,6 +14,8 @@ Reducing all problems into "the communication problems between systems"
 
 Linguistics as it is the basis for systems communication.
 
+Visualizing problems and solutions.
+
 # Autonomous Teams
 
 Organizing autonomous teams. These teams should loosely-coupled, especially through the outer circles and ephemerals of the problem-solving spiral.
