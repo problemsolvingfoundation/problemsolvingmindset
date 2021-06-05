@@ -4,7 +4,7 @@ We have to prioritize those two when we code the problem-solving mindset:
 1- Systems thinking (System theory in general)
 2- Minimalism.
 
-Because all of the other stems from those two. Even a problem or a solution can be defined as a "system" that consists of interrelated subsystems. 
+Because all of the others stem from those two. Even a problem or a solution can be defined as a "system" that consists of interrelated subsystems. 
 
 For instance, a problem is a system that becomes an obstacle against the existence or stability of another system.
 
