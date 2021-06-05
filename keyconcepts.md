@@ -10,7 +10,7 @@ For instance, a problem is a system that becomes an obstacle against the existen
 
 Minimalism is the design strategy of problem-solving as minimalism makes it easier to detect and fix errors; enhance or refactor subsystems.
 
-(Related to minimalism: Law of Demeter (principle of least knowledge), the principle of least privilege, the principle of least effort, the principle of least action.)
+(Related to minimalism: Law of Demeter (the principle of least knowledge), the principle of least privilege, the principle of least effort, the principle of least action.)
 
 
 Kaizen, continuous improvement, minimalism.
