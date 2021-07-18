@@ -46,5 +46,5 @@ Principles that allow improvision like the musical notes, instead of strict rule
 
 Just as a social note for the future:
 As "law" is nothing but social software, we should learn it strictly to weaponize it against problem-creators.
-Also, the purpose of the law is to provide "justice" as much as possible, we should think about the ways to describe law and justice in terms of "system" and "problem-solving"
+Also, as the purpose of the law is to provide "justice" as much as possible, we should think about the ways to describe law and justice in terms of "system" and "problem-solving"
 "What is justice as an algorithm?", "Which systems should be prioritized by justice?"
