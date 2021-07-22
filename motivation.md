@@ -8,6 +8,11 @@ Maybe these storms are meant to get you to your soil."
  "Cells that fire together wire together." (Hebbian theory)
 
 
+The top-level of problem-solving mindset:
+
+>“The impediment to action advances action. What stands in the way becomes the way.”
+
+>― Marcus Aurelius.
 
 # LONELINESS:
 
