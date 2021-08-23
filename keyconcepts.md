@@ -48,3 +48,6 @@ Just as a social note for the future:
 As "law" is nothing but social software, we should learn it strictly to weaponize it against problem-creators.
 Also, as the purpose of the law is to provide "justice" as much as possible, we should think about the ways to describe law and justice in terms of "system" and "problem-solving"
 "What is justice as an algorithm?", "Which systems should be prioritized by justice?"
+
+Group Dynamics is the basis for social interaction. It is also related to clans-guilds in games. 
+https://www.youtube.com/watch?v=uL6x99-VSBA&ab_channel=St.ThomasAquinasCollege
