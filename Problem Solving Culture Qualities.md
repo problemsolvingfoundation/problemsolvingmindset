@@ -16,7 +16,7 @@ A culture with a vision requires the accomplishment of a vast variety of problem
 Communicating a problem is almost as important as solving it. One mistake in the transmission of information, and you may end up with mistakes that cause unexpected consequences. That's why it's important to establish a common language with terms that have unambigous meaning among the members of an organization. Knowing how to communicate ideas in a domain, problem solvers will feel more open to share ideas with each other, preventing the fear of misunderstanding.
 
 ## Fairness
-
+Each problem solver should be provided with sufficient rewards for their services performed. Distributing problem solvers what they have deserved will motivate them towards becoming more efficient and professional in their, as they will consider organization recompensing their efforts as reliable.
 
 ## Positive Attitude
 
