@@ -25,4 +25,5 @@ It is impossible to create a psychologically safe environment in an accusatory, 
 A problem-solving culture encourages problems solving to be their best versions, to achieve their potential promoting their willingness to act.
 
 ## Minimalism
+Problem-solving culture should promote minimalism to prevent collective waste of time and energy. Minimalism helps to detect and handle problems faster in an organisation.
 
