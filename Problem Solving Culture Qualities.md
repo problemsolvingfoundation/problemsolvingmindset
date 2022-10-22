@@ -23,5 +23,6 @@ It is impossible to create a psychologically safe environment in an accusatory, 
 
 ## Encouragement
 
+
 ## Minimalism
 
