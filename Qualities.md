@@ -9,13 +9,19 @@ If a person wants to achieve life's purpose, they need to continuously solve pro
 An individual can only solve problems towards their own purpose only when they have overcome the obstacles society presents. 
 
 ## Resilience
+Never giving up, overcoming all obstacles and turning them into opportunities enables a problem solver to realize their life's purpose. It's indeed those who never that achieve what they desire in life and tackle all challenges, unexpected or expected.
 
 ## Synergy
 
+
 ## Presence of Mind
+
 
 ## Minimalism
 
+
 ## Willingness to Act
 
+
 ## Positive Attitude 
+
