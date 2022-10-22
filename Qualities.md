@@ -1,7 +1,7 @@
 
-Continuous Improvement
-
 Purpose
+
+Continuous Improvement
 
 Independence
 
