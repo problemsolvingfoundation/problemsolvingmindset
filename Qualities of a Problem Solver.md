@@ -1,4 +1,4 @@
-# Qualities of Problem Solving Mindset
+#  Qualities of a Problem Solver
 
 ## Purpose
 Every person wants to achieve something that gives them a reason for living. A "purpose" gives the motivation to endure all kinds of problems in one's path.
