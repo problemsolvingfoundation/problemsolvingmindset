@@ -1,4 +1,4 @@
-# Qualities of Problem Solving Mindset
+# Qualities of Problem Solving Culture
 ## Continuous Improvement
 ## Vision
 ## Autonomy
