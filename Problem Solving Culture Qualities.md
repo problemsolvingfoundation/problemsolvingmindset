@@ -19,6 +19,7 @@ Communicating a problem is almost as important as solving it. One mistake in the
 Each problem solver should be provided with sufficient rewards for their services performed. Distributing problem solvers what they have deserved will motivate them towards becoming more efficient and professional in their, as they will consider organization recompensing their efforts as reliable.
 
 ## Positive Attitude
+It is impossible to create a psychologically safe environment in an accusatory, judgmental and passive-agressive culture. In a negative environment, people will try to hide their emotions and mistakes which will hinder the creativity of an organization. A problem-solving culture is understanding and forgiving with a positive attitude toward mistakes, considering them as learning opportunities and experiences. A positive attitude will also help to build a positive image of quality, which is the best way of finding allies with similar positivity in a competitive world.
 
 ## Encouragement
 
