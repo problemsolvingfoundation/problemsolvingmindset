@@ -13,7 +13,7 @@ A system with synergy is greater than the sum of its parts. Problem solving cult
 A culture with a vision requires the accomplishment of a vast variety of problems. As each problem requires a different set of problem solving skills, trying to micromanage subsystems qualified in a certain field, be it teams or individuals, will restrict their problem solving capacity. Given qualified subsystems, the problem solving culture helps to organize them in a way that makes them loosely coupled and highly cohesive, exactly what's needed for creating synergy with purposeful interactions and reducing waste of time and resources.
 
 ## Common Comunication Means
-Communicating a problem is almost as important as solving it. One mistake in the transmission of information, and you may end up with mistakes that cause unexpected consequences. That's why it's important to establish a common language with terms that have unambigous meaning among the members of an organization. Knowing how to communicate ideas in a domain, problem solvers will feel more open to share ideas with each other as it will quickly be understood.
+Communicating a problem is almost as important as solving it. One mistake in the transmission of information, and you may end up with mistakes that cause unexpected consequences. That's why it's important to establish a common language with terms that have unambigous meaning among the members of an organization. Knowing how to communicate ideas in a domain, problem solvers will feel more open to share ideas with each other, preventing the fear of misunderstanding.
 
 ## Fairness
 
