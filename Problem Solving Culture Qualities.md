@@ -7,7 +7,7 @@ A vision that presents individuals a common purpose will unite them towards work
 The problem solving culture with a shared vision is the most fertile habitat upon which problem solvers can thrive. In this world, problems never cease to arise and there is always room for improvement, fixing and innovation. If an organization guided by the problem solving culture tackles all problems continuously under the light of a vision, it will build itself step by step and attain a stable position of increasing strength. 
 
 ## Autonomous Subsystems
-A clture with a vision requires the accomplishment of a vast variety of problems. As each problem requires a different set of problem solving skills, trying to control problem solving subsystems qualified in a certain field, be it teams or individuals, will obstruct their problem solving capacity. It's thus best to give qualified subsystems a clear vision overcome these problems without either being dependent on them or them being dependent on the outside systems.
+A clture with a vision requires the accomplishment of a vast variety of problems. As each problem requires a different set of problem solving skills, trying to control problem solving subsystems qualified in a certain field, be it teams or individuals, will obstruct their problem solving capacity. A qualified subsystem solving problems for its purpose without outside dependencies will decouple teams and make them more efficient at producing value.
 
 ## Synergy
 
