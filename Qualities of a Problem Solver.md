@@ -1,16 +1,17 @@
 #  Qualities of a Problem Solver
 
 ## Purpose
-Every person wants to achieve something that gives them a reason for living. A "purpose" gives the motivation to endure all kinds of problems in one's path.
+In a world full of distractions, a person needs a pursuit, a vocation that would keep them focused on something that gives them a sense of meaning in life. 
+The person who has determined a life purpose attains a mindset that interprets obstacles in their life as problems to be solved for their purpose in life. Occupying oneself with a meaningful purpose will provide the necessary motivation for overcoming all problems despite difficult circumstances.
 
 ## Continuous Improvement
-If a person wants to achieve life's purpose, they need to continuously solve problems. With their purpose, they can improve themselves and their work every single day.
+A person working towards a life's purpose will find oneself solving problems in small steps every single day. With this, the problem solver always know there is room for improvement and innovation for oneself or one's work.
 
 ## Independence
-An individual can only solve problems towards their own purpose only when they have overcome the obstacles society presents. 
+An individual can solve problems towards their own purpose only when they have overcome the obstacles the world presents. If a person doesn't liberate oneself from unnecessary interactions and dependencies with the outside world, they would themselves distracted away from their efforts towards a life purpose. A confidence in one's own worth and abilities keeps an individual firm against judgemental and negative reactions of others.
 
 ## Resilience
-Never giving up, overcoming all obstacles and turning them into opportunities enables a problem solver to realize their life's purpose. It's indeed those who never give up achieve what they desire in life and tackle all challenges, unexpected or expected.
+Never giving up, overcoming all obstacles and turning them into opportunities enables a problem solver to realize their life's purpose. Those who have shaped the past have always been those who have never given up. The future will similarly be created by those that withstand and overcome difficulties where others would have forsaken all hopes.
 
 ## Synergy
 How creative and skilfull an individual may be, they should be aware of the fact that any collaboration will amplify their efficiency. People working under a shared vision will produce results that are greater than sum of their parts (emergence).
