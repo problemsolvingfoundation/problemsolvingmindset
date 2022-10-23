@@ -14,16 +14,16 @@ An individual can solve problems towards their own purpose only when they have o
 Never giving up, overcoming all obstacles and turning them into opportunities enables a problem solver to realize their life's purpose. Those who have shaped the past have always been those who have never given up. The future will similarly be created by those that withstand and overcome difficulties where others would have forsaken all hopes.
 
 ## Synergy
-How creative and skilfull an individual may be, they should be aware of the fact that any collaboration will amplify their efficiency. People working under a shared vision will produce results that are greater than sum of their parts (emergence).
+How creative and skilfull an individual may be, they should be aware of the fact that any collaboration will amplify their efficiency. Each human is only capable of being qualified only in some field of problem solving. When pursuing something that will have an effect on the world, the problem solver finds oneself naturally in collaboration with those who have different strengths than one's own. With this, people working under a shared vision will produce results that are greater than sum of their parts (emergence).
 
 ## Presence of Mind
-The problem solver should be ready to make the right decision at any moment. The secret to achieving a clear mind that will continue to work toward one's life mission is to remain concentrated in the face of distracting situations and emotional challenges.
+The mind has a tendency to become disoriented in the presence of emotional difficulties and distracting circumstances. The capacity to make the right decision at any time is essential for problem solvers. Distractions can be avoided by a mind that is aware of itself and its surroundings. Maintaining one's focus on one's purpose will give them the time and mental energy they need to pursue continuous improvement.
 
 ## Minimalism
 Keeping everything simple helps to prevent complicated problems from arising. Similarly, a minimalistic lifestyle allows an individual to attain their full potential by eliminating distractions.
 
 ## Willingness to Act ( Handlungsbereitschaft )
-Everyone has dreams in this world, yet only few act it out. The problem solver sees opportunity or problems where they are and takes the necessary initiative to bring the situation to a solution.
+In this world, everyone has dreams, but very few people actually make them come true. A problem solver recognizes an opportunity or a problem where it is and takes the required action to resolve it.
 
 ## Positive Attitude 
 It is the belief that anything can be solved with the appropriate problem-solving mindset. History has repeatedly demonstrated that with the appropriate attitude, people can successfully handle any issue or situation. A person will remain strong no matter what by making the most of what they have with a resourceful viewpoint, seeing opportunities in obstacles, and having the mindset of a winner, not the victim mindset of a loser.
