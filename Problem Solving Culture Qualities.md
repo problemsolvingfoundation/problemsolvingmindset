@@ -1,7 +1,7 @@
 # Qualities of Problem Solving Culture
 
 ## Vision
-A vision that presents individuals a common purpose will unite them towards working together. People who know they are working for something greater will become more motivated in their work. The vision offers a basis for people to create their individual purposes, which helps to create a sense of meaning in one's own work as well as in the work of those with the shared vision.
+A vision that provides individuals a common purpose will unite them towards working together. People will become more motivated in their endeavors if they are aware that they are contributing to something greater. The shared vision provides a framework for individuals to develop their own purposes, which facilitates a sense of meaning in both one's own work and the work of those who share it.
 
 ## Continuous Improvement
 The problem solving culture with a shared vision is the most fertile habitat upon which problem solvers can thrive. In this world, problems never cease to arise and developments around us offer new opportunities for improvement. If an organization guided by the problem solving culture confronts all problems continuously under the light of a vision, it will build itself in small incremental steps and reach a steady position of increasing strength.
@@ -16,13 +16,13 @@ A culture with a vision requires the accomplishment of a wide variety of problem
 Communicating a problem is almost as important as solving it. One mistake in the transmission of information, and you may end up with mistakes that cause unexpected consequences. To secure a healthy communication, it's critical to establish a common language and vocabulary with terms that have unambiguous meaning among the members of an organization. Knowing how to communicate ideas in a domain, problem solvers will feel more willing to exchange ideas with each other, as there is no longer a fear of misunderstanding.
 
 ## Fairness
-Each problem solver should be provided with sufficient rewards for their services performed. Distributing problem solvers what they have deserved will motivate them towards becoming more efficient and professional in their, as they will consider organization recompensing their efforts as reliable.
+Each problem solver should be provided with sufficient rewards for their services performed. Distributing problem solvers what they have deserved will motivate them towards becoming more efficient and professional in their activities.
 
 ## Positive Attitude
 It is impossible to create a psychologically safe environment in an accusatory, judgmental and passive-agressive culture. In a negative environment, people will try to hide their emotions and mistakes which will hinder the creativity of an organization. A problem-solving culture is understanding and forgiving with a positive attitude toward mistakes, considering them as learning opportunities and experiences. A positive attitude will also help to build a positive image of quality, which is the best way of finding allies with similar positivity in a competitive world.
 
 ## Encouragement
-A problem-solving culture encourages problems solving to be their best versions, to achieve their potential promoting their willingness to act.
+A problem-solving culture encourages problem solvers to become their best versions, to achieve their potential promoting their willingness to act. Complex problems often require immediate and independent action by the problem solver, whether it be taking risks and responsibilities or giving feedback when something isn't right. Conversely, in a psychologically unsafe environment, problem solvers will be reluctant to take action against problems or to openly express them.
 
 ## Minimalism
 Problem-solving culture should promote minimalism to prevent collective waste of time and energy. Minimalism helps to detect and handle problems faster in an organisation.
