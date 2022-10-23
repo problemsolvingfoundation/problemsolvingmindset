@@ -22,8 +22,8 @@ Each problem solver should be provided with sufficient rewards for their service
 It is impossible to create a psychologically safe environment in an accusatory, judgmental and passive-agressive culture. In a negative environment, people will try to hide their emotions and mistakes which will hinder the creativity of an organization. A problem-solving culture is understanding and forgiving with a positive attitude toward mistakes, considering them as learning opportunities and experiences. A positive attitude will also help to build a positive image of quality, which is the best way of finding allies with similar positivity in a competitive world.
 
 ## Encouragement
-A problem-solving culture encourages problem solvers to become their best versions, to achieve their potential promoting their willingness to act. Complex problems often require immediate and independent action by the problem solver, whether it be taking risks and responsibilities or giving feedback when something isn't right. Conversely, in a psychologically unsafe environment, problem solvers will be reluctant to take action against problems or to openly express them.
+A problem-solving culture inspires problem solvers to realize their full potential and thus promotes their willingness to take action. When solving complex problems, the problem-solver frequently needs to act quickly and independently, which may involve taking on risks and responsibilities or providing feedback if something isn't right. On the other hand, in a psychologically unsafe environment, problem solvers will be hesitant to take action against problems or to openly express them.
 
 ## Minimalism
-Problem-solving culture should promote minimalism to prevent collective waste of time and energy. Minimalism helps to detect and handle problems faster in an organisation.
+Problem-solving culture should promote minimalism to prevent collective waste of time and energy. Minimalism facilitates quicker problem detection and solution and proactively prevents problems from arising out of complexity.
 
