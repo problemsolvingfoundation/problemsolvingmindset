@@ -23,7 +23,7 @@ The mind has a tendency to become disoriented in the presence of emotional diffi
 Keeping everything simple helps to prevent complicated problems from arising. Similarly, a minimalistic lifestyle allows an individual to attain their full potential by eliminating distractions.
 
 ## Willingness to Act ( Handlungsbereitschaft )
-In this world, everyone has dreams, but very few people actually make them come true. A problem solver recognizes an opportunity or a problem where it is and takes the required action to resolve it.
+In this world, everyone has dreams, but very few people actually make them come true. A problem solver recognizes an opportunity or a problem where it is and takes the required action to resolve it. This quality also implies that a problem solver is always in a state of being observer to seize opportunities or detect inconsistencies and errors to fix.
 
 ## Positive Attitude 
 It is the belief that anything can be solved with the appropriate problem-solving mindset. History has repeatedly demonstrated that with the appropriate attitude, people can successfully handle any issue or situation. A person will remain strong no matter what by making the most of what they have with a resourceful viewpoint, seeing opportunities in obstacles, and having the mindset of a winner, not the victim mindset of a loser.
